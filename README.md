@@ -1,2 +1,3 @@
-# SQL-Projects-on E-Commerce-Sales-Dataset-for-Data-Analysis-using-Microsoft-Database : 
+# Music-Store-Data-Analysis-Using-SQL-and-Power-Bi
+: 
 Complete SQL Project for data analysis.
