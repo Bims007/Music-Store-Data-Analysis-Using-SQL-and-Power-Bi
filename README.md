@@ -33,11 +33,17 @@ Key features used in PoweBi:
 4. Data Modeling
 5. Mesures
 6. Data Visuation
+7. PoweBi Web
 
 Key Takeaway via SQL :
 
 
 8. 
-9. 
+
+Installation Steps for Server:
+[https://github.com/Bims007/Music-Store-Data-Analysis-Using-SQL-and-Power-Bi/tree/main/Installation%20%26%20Execution](url)
+
+Installation Steps for PoweBi:
+[https://github.com/Bims007/Music-Store-Data-Analysis-Using-SQL-and-Power-Bi/tree/main/PowerBi%20Dashboard](url)
 
   
