@@ -46,7 +46,7 @@ Excel
 
 
 **Installation Steps for Server**:
-[https://github.com/Bims007/Music-Store-Data-Analysis-Using-SQL-and-Power-Bi/tree/main/Installation%20%26%20Execution](url)
+[https://github.com/Bims007/Music-Store-Data-Analysis-Using-SQL-and-Power-Bi/tree/main/Installation%20%26%20Execution%20of%20MS%20SQL%20Server](url)
 
 **Installation Steps for PowerBi**:
-[https://github.com/Bims007/Music-Store-Data-Analysis-Using-SQL-and-Power-Bi/tree/main/PowerBi%20Dashboard](url)
+[https://github.com/Bims007/Music-Store-Data-Analysis-Using-SQL-and-Power-Bi/tree/main/Installation%20of%20Power%20BI%20Desktop](url)
