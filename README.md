@@ -1,7 +1,7 @@
 # Music-Store-Data-Analysis-Using-SQL-and-Power-Bi
  
 𝗔𝗜𝗠:
-This project is all about analysing data of a music store for sales using Microsoft SQL Server, Microsoft SSMS and PoweBi.
+This project is all about analysing data of a music store for sales using Microsoft SQL Server, Microsoft SSMS and Power BI.
 
 **Steps**:
 1. installation of Microsoft SQL Server and Microsoft SSMS
@@ -15,7 +15,7 @@ This project is all about analysing data of a music store for sales using Micros
 **Tools used**:
 SQL programming language
 SQL server and SSMS
-PowerBi
+Power BI
 Excel
 
 **Key features used in SQL SSMS**:
@@ -37,12 +37,12 @@ Excel
 
 **Key insights drawn via SQL**:
 1. Most Senior employee
-2. countries have the most Invoices
-3. city has the best customers
-4. person who has spent the most money
-5. email, first name, last name, & Genre of all Rock Music listeners
+2. Countries that have the most Invoices
+3. City that has the best customers
+4. Person who has spent the most money
+5. Email, first name, last name, & Genre of all Rock Music listeners
 6. Artist name and total track count of the top 10 rock bands
-7. most popular music Genre for each country
+7. Most popular music Genre for each country
 
 
 **Installation Steps for Server**:
